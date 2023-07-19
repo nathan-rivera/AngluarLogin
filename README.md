@@ -1,2 +1,2 @@
-# AngluarLogin
+# Angular
 AngularLogin Project coded using Typescript
