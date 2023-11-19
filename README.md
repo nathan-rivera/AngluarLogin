@@ -28,6 +28,8 @@ npm install
 ```mark
 ng serve
 ```
+If you get error, run: npm install -g @angular/cli
+
 5.Open your browser and visit http://localhost:4200 to view the login page.
 
 ## Usage
